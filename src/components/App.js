@@ -114,20 +114,16 @@ class App extends Component {
     ordersTrendRegion.push({
       id: "01",
       value: orderesTrendne
-    });
-    ordersTrendRegion.push({
+    }, {
       id: "02",
       value: orderesTrendnw
-    });
-    ordersTrendRegion.push({
+    }, {
       id: "03",
       value: orderesTrendse
-    });
-    ordersTrendRegion.push({
+    }, {
       id: "04",
       value: orderesTrendsw
-    });
-    ordersTrendRegion.push({
+    }, {
       id: "05",
       value: orderesTrendc
     });
