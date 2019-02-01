@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/online-retail-dashboard/static/media/fa-regular-400.065edea4.eot"
   },
   {
-    "revision": "c1a6f15a89ac9e6972ea",
+    "revision": "7655da8c6fb1ba33d61f",
     "url": "/online-retail-dashboard/static/css/main.c3078bcf.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/online-retail-dashboard/static/media/fa-regular-400.2e562d4e.ttf"
   },
   {
-    "revision": "c1a6f15a89ac9e6972ea",
-    "url": "/online-retail-dashboard/static/js/main.c1a6f15a.chunk.js"
+    "revision": "7655da8c6fb1ba33d61f",
+    "url": "/online-retail-dashboard/static/js/main.7655da8c.chunk.js"
   },
   {
     "revision": "ae990e80be9a9904db60b0d3d06adbc1",
@@ -68,24 +68,24 @@ self.__precacheManifest = [
     "url": "/online-retail-dashboard/static/media/fa-solid-900.a6de637c.woff"
   },
   {
-    "revision": "c6aef942e3668158ec29d4adcb2e768f",
-    "url": "/online-retail-dashboard/static/media/fa-brands-400.c6aef942.ttf"
-  },
-  {
     "revision": "1010b72339fe3292aede3543e827b741",
     "url": "/online-retail-dashboard/static/media/fa-brands-400.1010b723.eot"
+  },
+  {
+    "revision": "c6aef942e3668158ec29d4adcb2e768f",
+    "url": "/online-retail-dashboard/static/media/fa-brands-400.c6aef942.ttf"
   },
   {
     "revision": "5dc39cf0aed41e1a5e9918bea7e8603d",
     "url": "/online-retail-dashboard/static/media/fa-regular-400.5dc39cf0.svg"
   },
   {
-    "revision": "872545dde71de3842234bf6afe80c4cb",
-    "url": "/online-retail-dashboard/static/media/fa-solid-900.872545dd.ttf"
-  },
-  {
     "revision": "a20e6745adc3184de8330b1f0579161f",
     "url": "/online-retail-dashboard/static/media/fa-solid-900.a20e6745.eot"
+  },
+  {
+    "revision": "872545dde71de3842234bf6afe80c4cb",
+    "url": "/online-retail-dashboard/static/media/fa-solid-900.872545dd.ttf"
   },
   {
     "revision": "c95f5f7a8923b8bb5034de9eb48901d7",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/online-retail-dashboard/static/css/1.fac23686.chunk.css"
   },
   {
-    "revision": "8e6f0a89b53e5e28eca9722cf00a2607",
+    "revision": "d9fd2397761c0b657a16aae320b1fe8b",
     "url": "/online-retail-dashboard/index.html"
   }
 ];
