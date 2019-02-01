@@ -15,6 +15,7 @@ import formatNum from "./format-number";
 
 import UserImg from "../assets/images/user-img-placeholder.jpeg";
 
+
 ReactFC.fcRoot(FusionCharts, Charts, Maps, USARegion);
 
 const url = `https://sheets.googleapis.com/v4/spreadsheets/${
@@ -475,7 +476,7 @@ class App extends Component {
                               code: "#EDF8B1"
                             },
                             {
-                              maxvalue: "25",
+                              minvalue: "25",
                               maxvalue: "50",
                               code: "#18D380"
                             }

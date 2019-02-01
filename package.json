@@ -1,5 +1,6 @@
 {
   "name": "ecommerce-dashboard",
+  "homepage": "https://sikrigagan.github.io/online-retail-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -29,6 +32,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.7.0"
+    "@fortawesome/fontawesome-free": "^5.7.0",
+    "gh-pages": "^2.0.1"
   }
 }
