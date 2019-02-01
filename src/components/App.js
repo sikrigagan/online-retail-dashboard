@@ -4,7 +4,6 @@ import { Container, Nav } from "./styled-components";
 // fusioncharts
 import FusionCharts from "fusioncharts";
 import Charts from "fusioncharts/fusioncharts.charts";
-import PowerCharts from "fusioncharts/fusioncharts.powercharts";
 import Maps from "fusioncharts/fusioncharts.maps";
 import USARegion from "fusionmaps/maps/es/fusioncharts.usaregion";
 import ReactFC from "react-fusioncharts";
@@ -16,9 +15,7 @@ import formatNum from "./format-number";
 
 import UserImg from "../assets/images/user-img-placeholder.jpeg";
 
-FusionCharts.options.creditLabel = false;
-
-ReactFC.fcRoot(FusionCharts, Charts, PowerCharts, Maps, USARegion);
+ReactFC.fcRoot(FusionCharts, Charts, Maps, USARegion);
 
 const url = `https://sheets.googleapis.com/v4/spreadsheets/${
   config.spreadsheetId
