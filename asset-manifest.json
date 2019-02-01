@@ -1,7 +1,7 @@
 {
   "main.css": "/online-retail-dashboard/static/css/main.c3078bcf.chunk.css",
-  "main.js": "/online-retail-dashboard/static/js/main.1d919aab.chunk.js",
-  "main.js.map": "/online-retail-dashboard/static/js/main.1d919aab.chunk.js.map",
+  "main.js": "/online-retail-dashboard/static/js/main.a0775617.chunk.js",
+  "main.js.map": "/online-retail-dashboard/static/js/main.a0775617.chunk.js.map",
   "static/css/1.fac23686.chunk.css": "/online-retail-dashboard/static/css/1.fac23686.chunk.css",
   "static/js/1.94b5d51b.chunk.js": "/online-retail-dashboard/static/js/1.94b5d51b.chunk.js",
   "static/js/1.94b5d51b.chunk.js.map": "/online-retail-dashboard/static/js/1.94b5d51b.chunk.js.map",
@@ -13,6 +13,6 @@
   "static/css/main.c3078bcf.chunk.css.map": "/online-retail-dashboard/static/css/main.c3078bcf.chunk.css.map",
   "static/css/1.fac23686.chunk.css.map": "/online-retail-dashboard/static/css/1.fac23686.chunk.css.map",
   "index.html": "/online-retail-dashboard/index.html",
-  "precache-manifest.4930d5bb2aa39c86b594138e62776a5e.js": "/online-retail-dashboard/precache-manifest.4930d5bb2aa39c86b594138e62776a5e.js",
+  "precache-manifest.9ab53273bc9998a852564d002a5e3ff4.js": "/online-retail-dashboard/precache-manifest.9ab53273bc9998a852564d002a5e3ff4.js",
   "service-worker.js": "/online-retail-dashboard/service-worker.js"
 }
