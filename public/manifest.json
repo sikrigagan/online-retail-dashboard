@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Online Retail Dashboard",
+  "name": "Online Retail Dashboard using React, FusionCharts & Bootstrap",
   "icons": [
     {
       "src": "favicon.ico",

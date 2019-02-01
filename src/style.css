@@ -1,0 +1,234 @@
+/* font faces */
+@font-face {
+  font-family: "basefont-regular";
+  src: local("basefont-regular"),
+    url("./assets/fonts/circular/CircularStd-Book.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "basefont-medium";
+  src: local("basefont-medium"),
+    url("./assets/fonts/circular/CircularStd-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "basefont-bold";
+  src: local("basefont-bold"),
+    url("./assets/fonts/circular/CircularStd-Bold.otf") format("opentype");
+}
+
+/* typography styles */
+.is-dark-text {
+  color: rgb(67, 68, 86);
+}
+
+.is-dark-text-light {
+  color: rgb(128, 145, 171);
+}
+
+.is-light-text {
+  /* color: rgb(193, 204, 222); */
+  color: rgb(255, 255, 255);
+}
+
+/* font weights */
+
+.font-medium {
+  font-family: "basefont-medium";
+}
+
+.font-bold {
+  font-family: "basefont-bold";
+}
+
+/* text sizes */
+.text-x-large {
+  font-size: 2rem;
+}
+
+.text-large {
+  font-size: 1.25rem;
+}
+
+.text-medium {
+  font-size: 1.125rem;
+}
+
+.text-small {
+  font-size: 0.875rem;
+}
+
+.text-x-small {
+  font-size: 0.75rem;
+}
+
+/* letter spacing */
+.letter-spacing {
+  letter-spacing: 0.05rem;
+}
+
+.chart-container  svg  text {
+  letter-spacing: 0.05rem;
+}
+
+body {
+  background: rgb(23, 32, 46) !important;
+  font-family: "basefont-regular" !important;
+  color: rgb(255, 255, 255);
+  padding-top: 125px;
+}
+
+.container-fluid {
+  width: 95% !important;
+}
+
+/* navbar styles */
+.is-white {
+  background: rgb(255, 255, 255);
+  height: 65px;
+}
+
+.is-dark {
+  background: rgb(19, 25, 36);
+  height: 60px;
+}
+
+.nav-secondary {
+  margin-top: 65px;
+  box-shadow: 0px 2px 10px #0000006e;
+}
+
+/* user image style */
+.img-container > img {
+  width: 40px;
+}
+
+.grid-card {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 1.5rem;
+  height: calc(100%);
+}
+
+.chart-card {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 1.5rem 1.5rem .75rem 1.5rem;
+  height: calc(100%);
+}
+
+.card-heading {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  position: relative;
+  min-height: 30px;
+}
+
+.is-card-dark {
+  background: rgb(32, 42, 59) !important;
+}
+
+.logo-adjust {
+  margin-top: -4px;
+}
+
+.col-md-8.border-left {
+  border-left: 1px solid rgba(222, 226, 230, 0.07) !important;
+}
+
+.fab {
+  color: rgb(255, 255, 255);
+  opacity: 0.6;
+}
+
+.conv > span {
+  display: inline-block;
+  min-width: 75px !important;
+}
+
+
+.chart-container > * {
+  height: 100% !important;
+}
+
+.full-height.border-left, .full-height.border-right {
+  border-left: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-right: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.custom-dropdown {
+  border-radius: 4px;
+  background: transparent;
+  border: 1px solid rgba(193, 204, 222, 0.2);
+  font-family: 'basefont-regular'
+}
+
+.Dropdown-control {
+  border: none;
+  color: #c1ccde;
+  background: transparent;
+}
+
+.Dropdown-arrow {
+  top: 18px;
+}
+
+/* media queries */
+@media screen and (max-width: 991px) {
+  .container-fluid.pr-5, .container-fluid.pl-5 {
+    width: 90% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+
+@media screen and (min-width: 991px) {
+  .full-height {
+    height: 100% !important;
+  }
+}
+
+@media screen and (max-width: 567px) {
+  .full-height.border-left, .full-height.border-right {
+    border-left: none !important;
+    border-right: none !important;
+  }
+
+  .chart-container {
+    height: 180px !important;
+  }
+
+  .large {
+    height: 350px !important;
+  }
+}
