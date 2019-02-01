@@ -15,7 +15,6 @@ import formatNum from "./format-number";
 
 import UserImg from "../assets/images/user-img-placeholder.jpeg";
 
-
 ReactFC.fcRoot(FusionCharts, Charts, Maps, USARegion);
 
 const url = `https://sheets.googleapis.com/v4/spreadsheets/${
