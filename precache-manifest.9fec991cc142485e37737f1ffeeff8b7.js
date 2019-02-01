@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/online-retail-dashboard/static/media/fa-regular-400.2e562d4e.ttf"
   },
   {
-    "revision": "a07756179727d627bc24",
-    "url": "/online-retail-dashboard/static/css/main.c3078bcf.chunk.css"
+    "revision": "eb6bb19c63194b427d2c",
+    "url": "/online-retail-dashboard/static/css/main.7ba38728.chunk.css"
   },
   {
     "revision": "56404b18f3d1a3eaeed35b43343cfab9",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/online-retail-dashboard/static/media/CircularStd-Book.6365c40a.otf"
   },
   {
-    "revision": "6baed2bf580964bec9559ad83caee43d",
-    "url": "/online-retail-dashboard/static/media/CircularStd-Bold.6baed2bf.otf"
-  },
-  {
     "revision": "4fcdd97fadc3a1d9887f816f2aa67f1d",
     "url": "/online-retail-dashboard/static/media/CircularStd-Medium.4fcdd97f.otf"
+  },
+  {
+    "revision": "6baed2bf580964bec9559ad83caee43d",
+    "url": "/online-retail-dashboard/static/media/CircularStd-Bold.6baed2bf.otf"
   },
   {
     "revision": "9c0eb6c2e967eccd837da618bcbde91c",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/online-retail-dashboard/static/media/fa-regular-400.065edea4.eot"
   },
   {
-    "revision": "a07756179727d627bc24",
-    "url": "/online-retail-dashboard/static/js/main.a0775617.chunk.js"
+    "revision": "eb6bb19c63194b427d2c",
+    "url": "/online-retail-dashboard/static/js/main.eb6bb19c.chunk.js"
   },
   {
     "revision": "ae990e80be9a9904db60b0d3d06adbc1",
@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/online-retail-dashboard/static/media/fa-solid-900.a6de637c.woff"
   },
   {
-    "revision": "1010b72339fe3292aede3543e827b741",
-    "url": "/online-retail-dashboard/static/media/fa-brands-400.1010b723.eot"
-  },
-  {
     "revision": "c6aef942e3668158ec29d4adcb2e768f",
     "url": "/online-retail-dashboard/static/media/fa-brands-400.c6aef942.ttf"
+  },
+  {
+    "revision": "1010b72339fe3292aede3543e827b741",
+    "url": "/online-retail-dashboard/static/media/fa-brands-400.1010b723.eot"
   },
   {
     "revision": "5dc39cf0aed41e1a5e9918bea7e8603d",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/online-retail-dashboard/static/css/1.fac23686.chunk.css"
   },
   {
-    "revision": "ebbb4e0f018baaabdf541f6154154d36",
+    "revision": "d14eec522973dcf4f7e02ab4a89fed33",
     "url": "/online-retail-dashboard/index.html"
   }
 ];

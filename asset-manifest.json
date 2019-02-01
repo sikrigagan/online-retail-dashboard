@@ -1,7 +1,7 @@
 {
-  "main.css": "/online-retail-dashboard/static/css/main.c3078bcf.chunk.css",
-  "main.js": "/online-retail-dashboard/static/js/main.a0775617.chunk.js",
-  "main.js.map": "/online-retail-dashboard/static/js/main.a0775617.chunk.js.map",
+  "main.css": "/online-retail-dashboard/static/css/main.7ba38728.chunk.css",
+  "main.js": "/online-retail-dashboard/static/js/main.eb6bb19c.chunk.js",
+  "main.js.map": "/online-retail-dashboard/static/js/main.eb6bb19c.chunk.js.map",
   "static/css/1.fac23686.chunk.css": "/online-retail-dashboard/static/css/1.fac23686.chunk.css",
   "static/js/1.94b5d51b.chunk.js": "/online-retail-dashboard/static/js/1.94b5d51b.chunk.js",
   "static/js/1.94b5d51b.chunk.js.map": "/online-retail-dashboard/static/js/1.94b5d51b.chunk.js.map",
@@ -10,9 +10,9 @@
   "static/media/all.css": "/online-retail-dashboard/static/media/fa-solid-900.56404b18.svg",
   "static/media/user-img-placeholder.jpeg": "/online-retail-dashboard/static/media/user-img-placeholder.be2ed151.jpeg",
   "static/media/style.css": "/online-retail-dashboard/static/media/CircularStd-Book.6365c40a.otf",
-  "static/css/main.c3078bcf.chunk.css.map": "/online-retail-dashboard/static/css/main.c3078bcf.chunk.css.map",
+  "static/css/main.7ba38728.chunk.css.map": "/online-retail-dashboard/static/css/main.7ba38728.chunk.css.map",
   "static/css/1.fac23686.chunk.css.map": "/online-retail-dashboard/static/css/1.fac23686.chunk.css.map",
   "index.html": "/online-retail-dashboard/index.html",
-  "precache-manifest.9ab53273bc9998a852564d002a5e3ff4.js": "/online-retail-dashboard/precache-manifest.9ab53273bc9998a852564d002a5e3ff4.js",
+  "precache-manifest.9fec991cc142485e37737f1ffeeff8b7.js": "/online-retail-dashboard/precache-manifest.9fec991cc142485e37737f1ffeeff8b7.js",
   "service-worker.js": "/online-retail-dashboard/service-worker.js"
 }
